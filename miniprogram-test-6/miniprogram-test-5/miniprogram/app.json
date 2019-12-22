@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/recommend/recommend",
+    "pages/setting/setting",
+    "pages/comment/comment"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "遇见沙邮",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#580000",
+    "borderStyle": "white",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "全部菜品",
+        "iconPath": "images/food1.png",
+        "selectedIconPath": "images/food.png"
+      },
+      {
+        "pagePath": "pages/recommend/recommend",
+        "text": "个性推荐",
+        "iconPath": "images/recommend1.png",
+        "selectedIconPath": "images/recommend.png"
+      },
+      {
+        "pagePath": "pages/comment/comment",
+        "text": "我的点评",
+        "iconPath": "images/comment1.png",
+        "selectedIconPath": "images/comment.png"
+      },
+      {
+        "pagePath": "pages/setting/setting",
+        "text": "校友互动",
+        "iconPath": "images/setting1.png",
+        "selectedIconPath": "images/setting.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

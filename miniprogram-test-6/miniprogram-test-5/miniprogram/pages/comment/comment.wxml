@@ -1,0 +1,23 @@
+<view class='header'> 我的评论</view>
+<view class='comment1'>1.教三油泼面打卡失败，呜呜呜，太油腻了，而且全是辣椒粉，完全没有体验感  》-《</view>
+<image    class="image1"                src='/images1/comment1.jpg'></image>
+<view class="date1">2019.12.12</view>
+
+<view class='comment2'>2.爱了爱了，教四的照烧鸡排是什么神奇美食，配上鸭汤，也太好吃了吧^-^</view>
+<image    class="image2"                src='/images1/comment2.gif'></image>
+<view class="date2">2019.12.14</view>
+
+<view class='comment3'>3.学三的菜重在实惠，今天没有什么胃口，一碗米饭，一碟八毛钱的豆芽搞定午餐，豆芽挺好吃的--</view>
+<image    class="image3"                src='/images1/comment3.gif'></image>
+
+<view class="date3">2019.12.16</view>
+
+<view class='comment4'>4.今日最佳是学四的麻辣烫，是我梦想中的味道（关键是便宜，虽然这东西不健康，但是好吃就vans了!</view>
+<image    class="image4"                src='/images1/comment4.gif'></image>
+
+<view class="date4">2019.12.20</view>
+
+<view class='comment5'>5.学二的兰州拉面怎么能没有名字，啊，寒冷的冬天来一碗热气腾腾的拉面简直是人间享受~</view>
+<image    class="image5"                src='/images1/comment5.gif'></image>
+
+<view class="date5">2019.12.22</view>

@@ -1,0 +1,33 @@
+<!-- index.wxml -->
+<swiper indicator-dots="indicatorDots"
+        indicator-color="#FFF"
+        indicator-active-color = "#bc162c"
+        autoplay="{{autoplay}}" 
+        interval="{{interval}}" 
+        duration="{{duration}}">
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image"/>
+    </swiper-item>
+  </block>
+</swiper>
+<scroll-view class="scroll-view" scroll-x="true">
+    <view class="scroll-view-item"  wx:for="{{viewDatas}}">
+      <view class="view-item-title">
+          <text>{{item.title}}\n</text>
+          <text>￥{{item.price}}</text>
+      </view>
+      <image class="view-item-image" src="{{item.imgUrl}}"></image>
+    </view>
+</scroll-view>
+<!--点击智能推荐-->
+<view class="head">
+   <image class="pic2" src="../../images/ka.png" mode="aspectFit">
+</image>
+</view>
+<view>
+ <text>----------------</text>
+<button size='mini' bindtap='particulars'>    ----- 查看卡路里</button>
+  <text>-----------------</text>
+</view>
+<button id="btn3" style="opacity: {{opacity}}" disabled="{{disabled}}" bindtap="send">点击智能推荐</button>

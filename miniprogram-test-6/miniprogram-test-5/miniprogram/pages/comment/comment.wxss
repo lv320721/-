@@ -1,0 +1,132 @@
+.header{
+  color: red;
+  text-align: center;
+}
+.comment1{
+  background-color: rgba(219, 219, 221, 0.884);
+  color:black;
+}
+.image1{
+  height: 120rpx;
+  width: 120rpx;
+}
+.date1{
+color:lightgray;
+text-align: right;
+}
+.comment2{
+  background-color: yellow;
+  color:black;
+}
+.image2{
+  height: 120rpx;
+  width: 120rpx;
+}
+.date2{
+color:lightgray;
+text-align: right;
+}
+.comment3{
+  background-color:aqua;
+  color:black;
+}
+.image3{
+  height: 120rpx;
+  width: 120rpx;
+}
+.date3{
+color:lightgray;
+text-align: right;
+}
+.comment4{
+  background-color:yellow;
+  color:black;
+}
+.image4{
+  height: 120rpx;
+  width: 120rpx;
+}
+.date4{
+color:lightgray;
+text-align: right;
+}
+.comment5{
+  background-color:yellow;
+  color:black;
+}
+.image5{
+  height: 120rpx;
+  width: 120rpx;
+}
+.date5{
+color:lightgray;
+text-align: right;
+}
+
+
+
+
+.header{
+  color: red;
+  text-align: center;
+}
+.comment1{
+  background-color: rgba(219, 219, 221, 0.884);
+  color:black;
+}
+.image1{
+  height: 120rpx;
+  width: 120rpx;
+}
+.date1{
+color:lightgray;
+text-align: right;
+}
+.comment2{
+  background-color: rgb(240, 240, 151);
+  color:black;
+}
+.image2{
+  height: 120rpx;
+  width: 120rpx;
+}
+.date2{
+color:lightgray;
+text-align: right;
+}
+.comment3{
+  background-color:rgb(149, 218, 250);
+  color:black;
+}
+.image3{
+  height: 120rpx;
+  width: 120rpx;
+}
+.date3{
+color:lightgray;
+text-align: right;
+}
+.comment4{
+  background-color:rgb(171, 241, 175);
+  color:black;
+}
+.image4{
+  height: 120rpx;
+  width: 120rpx;
+}
+.date4{
+color:lightgray;
+text-align: right;
+}
+.comment5{
+  background-color:rgb(178, 215, 245);
+  color:black;
+}
+.image5{
+  height: 120rpx;
+  width: 120rpx;
+}
+.date5{
+color:lightgray;
+text-align: right;
+}

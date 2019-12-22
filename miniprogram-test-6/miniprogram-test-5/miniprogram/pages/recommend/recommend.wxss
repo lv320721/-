@@ -1,0 +1,46 @@
+/* index.wxss */
+.slide-image{
+  width: 100%;
+  height: 300rpx;
+}
+.scroll-view {
+  display: flex;
+  width: 100%;
+  height: 385rpx;
+  white-space: nowrap;  
+  box-sizing: border-box;
+}
+
+.scroll-view-item {
+  display: inline-block;
+  width: 685rpx;
+  height: 285rpx;
+}
+
+page{
+  background:rgb(235, 240, 252)
+}
+#btn3 {
+  position: absolute;
+  height: 100rpx;
+  top: 30%;
+  left: 15%;
+  width: 70%;
+  color: white;
+  background-color: #00aea1;
+}
+#mini {
+  position: absolute;
+  height: 88rpx;
+  top: 60%;
+  left: 19%;
+  width: 60%;
+  color: white;
+  background-color: #00aea1;
+}
+    .pic2{
+    height: 520rpx;
+    width: 750rpx;
+    flex-direction: row;  
+    left: 19%;
+    }
